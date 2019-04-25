@@ -1,0 +1,15 @@
+name = themename
+description = Description of themename
+core = 7.x
+engine = phptemplate
+regions[header] = Header
+regions[breadcrumb] = Breadcrumb
+regions[Content] = Content
+regions[Sidebar1] = Left
+regions[Sidebar2] = Right
+regions[footer]=Footer
+regions[content] = 'content' ;;
+stylesheets[all][] = style.css
+stylesheets[all][]=  bootstrap.css
+scripts[] = bootstrap.min.js
+scripts[] = Customjs.js
