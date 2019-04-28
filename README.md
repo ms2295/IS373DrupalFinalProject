@@ -9,4 +9,36 @@ Springing off the three different types of users that we can have we will now di
 	A NJIT Student role that allows students to edit their own student page and upload meaningful content. 
 	The Administrator role that was installed with our site, for expert users to manage the site configurations.
 	A Content editor role that updates event/meeting information when it is readily available to the public.  
+The following is our list of content types and fields and the according taxonomy vocabularies and terms that will correspond with the different types. 
+	Content Type: Profile Page
+	Taxonomy
+•	Projects
+•	Resume
+•	Profile Info(Grade, City/State, Major, Background)
+•	Github/Github Page
+•	Activity
+
+	Content Type: Calendar/Events
+	Taxonomy
+•	Club Meetings
+•	Hackathons
+•	Job Fairs
+
+	Content Type: Communication
+	Taxonomy
+•	Forum
+•	Slack
+
+	Content Type: Information
+	Taxonomy
+•	About
+•	Contact Us
+•	Job Bulletin
+
+	Content Type: Registration
+	Taxonomy
+•	Sign Up
+•	Delete Account
+•	Log In
+•	Log Out
 
